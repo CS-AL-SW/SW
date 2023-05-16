@@ -1,7 +1,7 @@
 # 정보처리기사 노트
 
-- 소프트웨어 설계
-- 소프트웨어 개발
-- 데이터베이스 구축
-- 프로그래밍 언어 활용
-- 정보처리시스템 구축 관리
+- [소프트웨어 설계](https://github.com/CS-AL-SW/SW/tree/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/1.%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EC%84%A4%EA%B3%84)
+- [소프트웨어 개발](https://github.com/CS-AL-SW/SW/tree/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/2.%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C)
+- [데이터베이스 구축](https://github.com/CS-AL-SW/SW/tree/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B5%AC%EC%B6%95)
+- [프로그래밍 언어 활용](https://github.com/CS-AL-SW/SW/tree/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/4.%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%20%ED%99%9C%EC%9A%A9)
+- [정보처리시스템 구축 관리](https://github.com/CS-AL-SW/SW/tree/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/5.%20%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95%20%EA%B4%80%EB%A6%AC)
