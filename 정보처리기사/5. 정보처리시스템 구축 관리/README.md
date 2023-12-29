@@ -550,11 +550,11 @@ LOC 기법에 의해 예측된 총 라인 수가 36,000라인, 개발에 참여�
 - 최대 홉 카운트를 15홉 이하로 한정한다.
 - 소규모 네트워크 환경에 적합하다.
 
-**OSPF(Open Shortest Path Fist Protocol)**
+**OSPF(Open Shortest Path First Protocol)**
 
 - 대표적인 링크 상태(Link State) 라우팅 프로토콜로, IP 패킷에서 89번 프로토콜을 사용하여 라우팅 정보를 전송하며 안정되고 다양한 기능으로 가장 많이 사용되는 것은 IGP(Interior Gateway Protocol)이다.
 
-**MQTT(Message Queuing Telemetry Transprot)**
+**MQTT(Message Queuing Telemetry Transport)**
 
 - IBM이 주도하여 개발한 기술로 사물 인터넷과 같이 대역폭이 제한된 통신 환경에 최적화하여 개발된 푸시 기술 기반의 경량 메시지 전송 프로토콜이다.
 - TCP/IP 기반 네트워크에서 동작하는 발생-구독 기반의 메시징 프로토콜로 최근 IoT 환경에서 자주 사용되고 있는 프로토콜이다.
